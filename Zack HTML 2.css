@@ -1,0 +1,19 @@
+#navbar {
+    list-style-type: none;
+    margin-left: 30%;
+    padding: 0;
+  }
+#navbar li{
+    margin: 15px;
+    display: inline;
+}
+
+header{
+    background-color: blueviolet;
+}
+a:hover{
+    color: chartreuse;
+}
+img{
+    width:100%
+}
